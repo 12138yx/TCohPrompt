@@ -1,5 +1,5 @@
 # TCohPrompt: Task-Coherent prompt-oriented fine-tuning for relation extraction
-The Codes of TCohPrompt.
+The Codes of TCohPrompt. Run the train.py file to start.
 # Data
 [BaiduYun Disk]
 
