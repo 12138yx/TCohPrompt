@@ -1,4 +1,4 @@
-# TCohPrompt:Task-Coherent prompt-oriented fine-tuning for relation extraction
+# TCohPrompt: Task-Coherent prompt-oriented fine-tuning for relation extraction
 The Codes of TCohPrompt.
 # Data
 [BaiduYun Disk]
